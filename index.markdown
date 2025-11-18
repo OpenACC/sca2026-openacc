@@ -11,3 +11,6 @@ layout: page
 **When:** 2026/01/26
 
 **What:** The OpenACC Users Group is an opportunity for OpenACC users, implementors, and supporters to build community and share their successes.
+
+## Agenda
+*Coming soon...*
