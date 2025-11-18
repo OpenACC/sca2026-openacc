@@ -6,6 +6,8 @@ layout: page
 ---
 # OpenACC Users Group @ SCAsia 2026
 
-*Where:* Co-located at the SCAsia conference in Osaka, Japan
-*When:* 2026/01/26
-*What:* The OpenACC Users Group is an opportunity for OpenACC users, implementors, and supporters to build community and share their successes.
+**Where:** Co-located at the SCAsia conference in Osaka, Japan
+
+**When:** 2026/01/26
+
+**What:** The OpenACC Users Group is an opportunity for OpenACC users, implementors, and supporters to build community and share their successes.
