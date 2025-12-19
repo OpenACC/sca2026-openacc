@@ -14,22 +14,103 @@ layout: page
 
 ## Agenda
 Tentative Agenda
-| Japan Time Slot (JST) |	Talk title	| Presenter name(s)	| Affiliation |
-| --------------------- | ----------- | ----------------- | ----------- |
-| 09:30 AM - 09:35 AM	  | Welcome and Introduction	                                                            | Kazuya Yamazaki, Jack Wells, Jeff Larkin |	The University of Tokyo, NVIDIA, NVIDIA |
-| 9:35 AM - 9:45 AM	    | OpenACC Specification Update	                                                        | Jeff Larkin	                             | OpenACC Technical Chair |
-| 9:45 AM - 10:20 AM	  | Compiler Updates (GCC, NVIDIA, HPE)                                                   | Thomas Schwinge, Kazuaki Matsumura, TBD  |	BayLibre, NVIDIA, HPE |
-| 10:20 AM - 10:45 AM	  | OpenACC-based GPU acceleration for the SCALE atmospheric model: status and challenges	| Seiya Nishizawa	                         | RIKEN |
-| 10:45 AM - 11:15 AM	  | Break	|
-| 11:15 AM - 11:35 AM	  | Optimization of the SCALE atmospheric model customized for super-parameterization	                          | Kazuya Yamazaki	| The University of Tokyo |
-| 11:35 AM - 12:05 AM	  | Governmental support for GPU-ization on HPC/AI applications toward Fugaku-NEXT and nation-wide GPU systems	| Taisuke Boku	  | HAIRDESC / University of Tsukuba |
-| 12:05 AM - 12:30 PM	  | Solomon: unified schemes for directive-based GPU offloading	                                                | Yohei Miki	    | The University of Tokyo |
-| 12:30 PM - 1:30 PM	  | Lunch Break	|
-| 1:30 PM - 1:55 PM	    | GPU optimization of the Japanese high-resolution atmospheric model NICAM with OpenACC	                      | Hisashi Yashiro	| NIES, Japan |
-| 1:55 PM - 2:20 PM	    |	An OpenACC-Based Implementation of Lattice H-Matrix–Vector Multiplication on GPU Clusters	                  | Tetsuya Hoshino	| Nagoya University |
-| 2:20 PM - 2:45 PM	    |	GPU Acceleration and Performance Optimization of a High-Order Combustion Solver LS-FLOW-HO Using OpenACC	  | Osamu Watanabe	| JAXA, Japan |
-| 2:45 PM - 3:15 PM	    | Break	|
-| 3:15 PM -3:40 PM	    | Using OpenACC for Scientific Applications	                            | Sunita Chandrasekaran	| University of Delaware |
-| 3:40 PM - 4:05 PM	    | GPU-Accelerated Particle Tracing on Unstructured Meshes Using OpenACC	| Chun-Sung Jao	        | NCHC, Taiwan           |
-| 4:05 PM - 4:20 PM	    | Discussions	|
-| 4:20 PM - 4:30 PM	    | Workshop Concludes/Closing remarks	|
+<table>
+    <tr>
+        <td>Japan Time Slot (JST)</td>
+        <td>Talk title</td>
+        <td>Presenter name(s)</td>
+        <td>Affiliation</td>
+    </tr>
+    <tr>
+        <td>09:30 AM - 09:35 AM</td>
+        <td>Welcome and Introduction</td>
+        <td>Kazuya Yamazaki, Jack Wells, Jeff Larkin</td>
+        <td>The University of Tokyo, NVIDIA, NVIDIA</td>
+    </tr>
+    <tr>
+        <td>9:35 AM - 9:45 AM</td>
+        <td>OpenACC Specification Update</td>
+        <td>Jeff Larkin</td>
+        <td>OpenACC Technical Chair</td>
+    </tr>
+    <tr>
+        <td>9:45 AM - 10:20 AM</td>
+        <td>Compiler Updates (GCC, NVIDIA, HPE)</td>
+        <td>Thomas Schwinge, Kazuaki Matsumura, TBD</td>
+        <td>BayLibre, NVIDIA, HPE</td>
+    </tr>
+    <tr>
+        <td>10:20 AM - 10:45 AM</td>
+        <td>OpenACC-based GPU acceleration for the SCALE atmospheric model: status and challenges</td>
+        <td>Seiya Nishizawa</td>
+        <td>RIKEN</td>
+    </tr>
+    <tr>
+        <td>10:45 AM - 11:15 AM</td>
+        <td colspan="3">Break</td>
+    </tr>
+    <tr>
+        <td>11:15 AM - 11:35 AM</td>
+        <td>Optimization of the SCALE atmospheric model customized for super-parameterization</td>
+        <td>Kazuya Yamazaki</td>
+        <td>The University of Tokyo</td>
+    </tr>
+    <tr>
+        <td>11:35 AM - 12:05 AM</td>
+        <td>Governmental support for GPU-ization on HPC/AI applications toward Fugaku-NEXT and nation-wide GPU systems</td>
+        <td>Taisuke Boku</td>
+        <td>HAIRDESC / University of Tsukuba</td>
+    </tr>
+    <tr>
+        <td>12:05 AM - 12:30 PM</td>
+        <td>Solomon: unified schemes for directive-based GPU offloading</td>
+        <td>Yohei Miki</td>
+        <td>The University of Tokyo</td>
+    </tr>
+    <tr>
+        <td>12:30 PM - 1:30 PM</td>
+        <td colspan="3">Lunch Break</td>
+    </tr>
+    <tr>
+        <td>1:30 PM - 1:55 PM</td>
+        <td>GPU optimization of the Japanese high-resolution atmospheric model NICAM with OpenACC</td>
+        <td>Hisashi Yashiro</td>
+        <td>NIES, Japan</td>
+    </tr>
+    <tr>
+        <td>1:55 PM - 2:20 PM</td>
+        <td>An OpenACC-Based Implementation of Lattice H-Matrix–Vector Multiplication on GPU Clusters</td>
+        <td>Tetsuya Hoshino</td>
+        <td>Nagoya University</td>
+    </tr>
+    <tr>
+        <td>2:20 PM - 2:45 PM</td>
+        <td>GPU Acceleration and Performance Optimization of a High-Order Combustion Solver LS-FLOW-HO Using OpenACC</td>
+        <td>Osamu Watanabe</td>
+        <td>JAXA, Japan</td>
+    </tr>
+    <tr>
+        <td>2:45 PM - 3:15 PM</td>
+        <td colspan="3">Break</td>
+    </tr>
+    <tr>
+        <td>3:15 PM -3:40 PM</td>
+        <td>Using OpenACC for Scientific Applications</td>
+        <td>Sunita Chandrasekaran</td>
+        <td>University of Delaware</td>
+    </tr>
+    <tr>
+        <td>3:40 PM - 4:05 PM</td>
+        <td>GPU-Accelerated Particle Tracing on Unstructured Meshes Using OpenACC</td>
+        <td>Chun-Sung Jao</td>
+        <td>NCHC, Taiwan</td>
+    </tr>
+    <tr>
+        <td>4:05 PM - 4:20 PM</td>
+        <td colspan="3">Discussions</td>
+    </tr>
+    <tr>
+        <td>4:20 PM - 4:30 PM</td>
+        <td colspan="3">Workshop Concludes/Closing remarks</td>
+    </tr>
+</table>
