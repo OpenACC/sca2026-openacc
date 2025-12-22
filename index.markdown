@@ -36,7 +36,7 @@ Tentative Agenda
     <tr>
         <td>9:45 AM - 10:20 AM</td>
         <td>Compiler Updates (GCC, NVIDIA, HPE)</td>
-        <td>Thomas Schwinge, Kazuaki Matsumura, TBD</td>
+        <td>Thomas Schwinge, Kazuaki Matsumura, David Oehmke</td>
         <td>BayLibre, NVIDIA, HPE</td>
     </tr>
     <tr>
