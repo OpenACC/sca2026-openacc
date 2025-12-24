@@ -59,7 +59,7 @@ Tentative Agenda
         <td>11:35 AM - 12:05 AM</td>
         <td>Governmental support for GPU-ization on HPC/AI applications toward Fugaku-NEXT and nation-wide GPU systems</td>
         <td>Taisuke Boku</td>
-        <td>HAIRDESC / University of Tsukuba</td>
+        <td>Director, Advanced HPC-AI Research and Development Support Center, RIST / Center for Computational Sciences, University of Tsukuba</td>
     </tr>
     <tr>
         <td>12:05 AM - 12:30 PM</td>
@@ -75,7 +75,7 @@ Tentative Agenda
         <td>1:30 PM - 1:55 PM</td>
         <td>GPU optimization of the Japanese high-resolution atmospheric model NICAM with OpenACC</td>
         <td>Hisashi Yashiro</td>
-        <td>NIES, Japan</td>
+        <td>National Institute for Environmental Studies, Japan</td>
     </tr>
     <tr>
         <td>1:55 PM - 2:20 PM</td>
@@ -87,7 +87,7 @@ Tentative Agenda
         <td>2:20 PM - 2:45 PM</td>
         <td>GPU Acceleration and Performance Optimization of a High-Order Combustion Solver LS-FLOW-HO Using OpenACC</td>
         <td>Osamu Watanabe</td>
-        <td>JAXA, Japan</td>
+        <td>Japan Aerospace Exploration Agency</td>
     </tr>
     <tr>
         <td>2:45 PM - 3:15 PM</td>
@@ -103,7 +103,7 @@ Tentative Agenda
         <td>3:40 PM - 4:05 PM</td>
         <td>GPU-Accelerated Particle Tracing on Unstructured Meshes Using OpenACC</td>
         <td>Chun-Sung Jao</td>
-        <td>NCHC, Taiwan</td>
+        <td>National Center for High-performance Computing, Taiwan</td>
     </tr>
     <tr>
         <td>4:05 PM - 4:20 PM</td>
