@@ -24,7 +24,7 @@ layout: page
     <tr>
         <td>09:30 AM - 09:35 AM</td>
         <td>Welcome and Introduction</td>
-        <td>Kazuya Yamazaki, Jack Wells, Jeff Larkin</td>
+        <td>Kazuya Yamazaki, Jeff Larkin</td>
         <td>The University of Tokyo, NVIDIA, NVIDIA</td>
         <td>Kazuya Yamazaki</td>
     </tr>
@@ -58,7 +58,7 @@ layout: page
         <td>Optimization of the SCALE atmospheric model customized for super-parameterization</td>
         <td>Kazuya Yamazaki</td>
         <td>The University of Tokyo</td>
-        <td>Jack Wells</td>
+        <td>Jeff Larkin</td>
     </tr>
     <tr>
         <td>11:35 AM - 12:05 AM</td>
