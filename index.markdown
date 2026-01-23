@@ -4,7 +4,7 @@
 
 layout: page
 ---
-# OpenACC Users Group @ SCAsia 2026
+# OpenACC User Workshop at SCA2026
 
 **Where:** Room 803 at [Osaka International Convention Center, Japan](https://www.gco.co.jp/visitor/access/) (Registration to [the SCA/HPCAsia 2026 conference](https://www.sca-hpcasia2026.jp) is required)
 
